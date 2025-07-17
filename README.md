@@ -44,7 +44,6 @@ Build a machine learning model to perform <b>NLP</b> based on a private dataset 
    - Classification report  
    - Confusion matrix
    - ROC AUC
-   - (Bonus) Quickly check other models
 7. **Model Deployment** : not included
 
 
